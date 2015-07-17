@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 04. Unicode Character\bin\Debug\Problem_04.Unicode_Character.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 04. Unicode Character\bin\Debug\Problem_04.Unicode_Character.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 04. Unicode Character\bin\Debug\Problem_04.Unicode_Character.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 04. Unicode Character\obj\Debug\Problem_04.Unicode_Character.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 04. Unicode Character\obj\Debug\Problem_04.Unicode_Character.pdb

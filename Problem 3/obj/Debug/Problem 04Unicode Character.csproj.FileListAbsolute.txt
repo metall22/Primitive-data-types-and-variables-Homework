@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Unicode\bin\Debug\Unicode.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Unicode\obj\Debug\Unicode.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Unicode\obj\Debug\Unicode.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Unicode\bin\Debug\Unicode.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Unicode\bin\Debug\Unicode.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Unicode\obj\Debug\Problem 04Unicode Character.csprojResolveAssemblyReference.cache

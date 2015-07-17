@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.pdb

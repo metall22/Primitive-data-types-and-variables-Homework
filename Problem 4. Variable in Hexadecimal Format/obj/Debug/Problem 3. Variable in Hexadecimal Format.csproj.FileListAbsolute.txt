@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb

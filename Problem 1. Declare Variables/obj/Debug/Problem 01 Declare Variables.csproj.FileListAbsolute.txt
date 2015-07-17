@@ -1,0 +1,3 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb

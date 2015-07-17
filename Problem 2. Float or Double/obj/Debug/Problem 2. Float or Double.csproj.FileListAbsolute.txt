@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb

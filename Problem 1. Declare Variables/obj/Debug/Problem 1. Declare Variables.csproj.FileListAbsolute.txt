@@ -1,0 +1,9 @@
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 1. Declare Variables\obj\Debug\Problem 1. Declare Variables.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+c:\users\martin\documents\visual studio 2013\Projects\Solution1\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb

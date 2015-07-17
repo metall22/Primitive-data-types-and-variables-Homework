@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\unicode\bin\Debug\unicode.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\unicode\bin\Debug\unicode.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\unicode\bin\Debug\unicode.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\unicode\obj\Debug\Problem 03. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\unicode\obj\Debug\unicode.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Primitive data types and variables Homework\unicode\obj\Debug\unicode.pdb
